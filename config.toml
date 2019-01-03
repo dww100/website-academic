@@ -109,8 +109,8 @@ enableGitInfo = false
 
   # Font style.
   #   Choose from `default`, `classic`, or `playfair`.
-  #font = "tufte"
-  font = "default"
+  font = "tufte"
+  #font = "default"
 
   # Description for social sharing and search engines. If undefined, author role is used in place.
   description = ""

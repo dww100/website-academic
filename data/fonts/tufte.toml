@@ -1,0 +1,15 @@
+# Font style metadata
+name = "Tufte"
+
+# Optional Google font URL
+google_fonts = "Montserrat:400,700|Roboto:400,400italic,700|Roboto+Mono"
+
+# Font families
+heading_font = "et-book"
+body_font = "et-book"
+nav_font = "et-book"
+mono_font = "Consolas"
+
+# Font size
+font_size = "22"
+font_size_small = "20"
