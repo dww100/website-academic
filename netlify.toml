@@ -1,4 +1,4 @@
-hu  [build]
+[build]
   publish = "public"
   command = "hugo"
 
