@@ -300,7 +300,7 @@ enableGitInfo = false
 
 [[menu.main]]
   name = "Home"
-  url = "#about"
+  url = "#aboutme"
   weight = 1
 
 [[menu.main]]
