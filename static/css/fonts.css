@@ -1,3 +1,10 @@
+@charset "UTF-8";
+/*************************************************
+ *  Hugo Academic: an academic theme for Hugo.
+ *  Designed by @GeorgeCushen.
+ *  https://github.com/gcushen/hugo-academic
+ **************************************************/
+
 /* Import ET Book styles
    adapted from https://github.com/edwardtufte/et-book/blob/gh-pages/et-book.css */
 
@@ -32,4 +39,3 @@
   font-weight: normal;
   font-style: normal;
 }
-
