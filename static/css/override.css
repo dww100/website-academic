@@ -382,7 +382,9 @@ blockquote p:last-child {
 blockquote footer { 
   width: 50%;
   font-size: 1.1rem;
-  text-align: right; 
+  text-align: right;
+  margin: 0rem;
+  padding: 0rem;
 }
 
 ol, ul { 
