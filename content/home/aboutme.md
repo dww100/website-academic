@@ -8,7 +8,7 @@ date = 2018-06-30T00:00:00
 weight = 1
 
 +++
-{{% blockquote cite="" footer="Democritus of Abdera" %}}
+{{% blockquote cite="https://en.wikiquote.org/wiki/Democritus" footer="Democritus of Abdera" %}}
 In reality, nothing but atoms and the void.
 {{% /blockquote %}}
 
